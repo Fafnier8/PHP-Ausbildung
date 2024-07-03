@@ -1,0 +1,31 @@
+.title {
+    width: 50px;
+    margin-left: 900px;
+    text-align: center;
+    color:rgb(8, 0, 124);
+    font-size: 20px;
+}
+input {
+    color: blue;
+    background-color: lightblue;
+
+}
+
+.login{
+    height: 150px;
+    width: 300px;
+    margin-left: 800px;
+    margin-top: 100px;
+    
+    
+    border: 3px solid blue;
+    background-color: lightcyan;
+}
+
+.dockb
+{
+    width: 300px;
+    height: 300px;
+    padding-top: 0;
+    float: right;
+}

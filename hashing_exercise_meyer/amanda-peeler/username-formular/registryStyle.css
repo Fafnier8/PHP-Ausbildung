@@ -1,0 +1,75 @@
+p
+{
+    margin: 0;
+}
+
+.title
+{
+    width: 50px;
+    margin-left: 900px;
+    text-align: center;
+    color:rgb(8, 0, 124);
+    font-size: 20px;
+}
+
+input:valid
+{
+    color: blue;
+    background-color: lightblue;
+}
+
+input:invalid {
+    background-color: #c00000;
+}
+
+.registry
+{
+    height: 350px;
+    width: 450px;
+    margin-left: 780px;
+    margin-top: 100px;
+    border: 3px solid blue;
+    background-color: lightcyan;
+}
+
+.registryFieldLeft
+{
+    float: left;
+    margin: 10px 20px 10px 10px;
+}
+
+.registryFieldRight
+{
+    float: right;
+    margin: 10px 20px 10px 10px;
+}
+
+.error
+{
+    color: #FF0000;
+}
+
+#birthdateField
+{
+    position: relative;
+    right: 60px;
+}
+
+#registryButton
+{
+    height: 23px;
+    width: 84px;
+    color: blue;
+    background-color: lightblue;
+    position: relative;
+    top: 10px;
+    margin: 8px 10px 25px 180px;
+}
+
+.dockb
+{
+    width: 300px;
+    height: 300px;
+    padding-top: 0;
+    float: right;
+}
